@@ -35,7 +35,7 @@ The signatures are compared using GABOR Transform Method.
 ## Preview
 <!-- ![Preview](assets/Signature.gif) -->
 
-https://github.com/MZayed47/Signature_Validator_GABOR/blob/main/video/Signature_validator_video.webm
+https://github.com/MZayed47/Signature_Validator_GABOR/blob/main/video/Signature_validator_video.mp4
 
 
 
